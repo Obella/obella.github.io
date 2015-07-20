@@ -69,7 +69,7 @@ padding-bottom: 10%;
     /*padding-left: 40%;*/
     /*adding-top: 10px;*/
     text-align: right;
-    background: url(../img/main_slider_profilebellywatch.jpg) no-repeat center center;
+    background: url(../img/bellywatchslider_3d.jpg) no-repeat center center;
     background-size: cover;
 }
 
@@ -244,7 +244,7 @@ p.copyright {
   adding-top: 10px;
   text-align: right;
   color: #f8f8f8;
-  background: url(../img/ultrasound_slider.jpg) no-repeat center center;
+  background: url(../img/ultrasoundslider_3d.jpg) no-repeat center center;
   background-size: cover;
 
 }
@@ -255,7 +255,18 @@ p.copyright {
   padding-left: 40%;
   text-align: right;
   color: #f8f8f8;
-  background: url(../img/community_slider_momoncomp.jpg) no-repeat center center;
+  background: url(../img/momcomputerslider_3d.jpg) no-repeat center center;
+  background-size: cover;
+
+}
+.obella-pic3 {*/
+  position: relative;
+  padding-bottom: 25%;
+  padding-top: 27%;
+  padding-left: 40%;
+  text-align: right;
+  color: #f8f8f8;
+  background: url(../img/mombabyslider_3d.jpg) no-repeat center center;
   background-size: cover;
 
 }
