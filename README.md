@@ -1,3 +1,3 @@
-Obella Be Landing Page
+obella be Landing Page
 
-This is the landing page for Obella Be, a pregnant woman's companion. 
+This is the landing page for obella be, a pregnant woman's companion. 
